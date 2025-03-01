@@ -1,2 +1,5 @@
-Created GitHub Repo
-Updated Content, Making Changes
+Created GitHub Repo.
+Updated Content.
+Made Changes.
+Stimulated Changes from GitHub.
+Committed the Changes.
